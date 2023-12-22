@@ -1,0 +1,10 @@
+{
+  "pause_resume": "PAUSE",
+  "reset": "RESET",
+  "sounds": "MUTE",
+  "points": "Points",
+  "cleans": "Cleans",
+  "level": "Level",
+  "next": "Next",
+  "reward": "Reward"
+}
